@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "nome": "Analista"
+    },
+    {
+        "id": 1,
+        "nome": "Gerente"
+    },
+    {
+        "id": 3,
+        "nome": "Desenvolvedor"
+    },
+    {
+        "id": 5,
+        "nome": "Assistente"
+    },
+    {
+        "id": 4,
+        "nome": "Coordenador"
+    }
+]

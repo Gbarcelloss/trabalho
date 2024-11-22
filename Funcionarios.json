@@ -1,0 +1,82 @@
+[
+    {
+        "id": 6,
+        "nome": "Sofia",
+        "idade": 35,
+        "cargo_id": 3,
+        "departamento_id": 1,
+        "salario": 6100
+    },
+    {
+        "id": 7,
+        "nome": "Pedro",
+        "idade": 37,
+        "cargo_id": 4,
+        "departamento_id": 2,
+        "salario": 5800
+    },
+    {
+        "id": 3,
+        "nome": "Carlos",
+        "idade": 40,
+        "cargo_id": 3,
+        "departamento_id": 3,
+        "salario": 6300
+    },
+    {
+        "id": 8,
+        "nome": "Clara",
+        "idade": 30,
+        "cargo_id": 5,
+        "departamento_id": 3,
+        "salario": 4900
+    },
+    {
+        "id": 10,
+        "nome": "Larissa",
+        "idade": 33,
+        "cargo_id": 5,
+        "departamento_id": 5,
+        "salario": 5200
+    },
+    {
+        "id": 1,
+        "nome": "João",
+        "idade": 34,
+        "cargo_id": 1,
+        "departamento_id": 2,
+        "salario": 4500
+    },
+    {
+        "id": 2,
+        "nome": "Maria",
+        "idade": 29,
+        "cargo_id": 2,
+        "departamento_id": 1,
+        "salario": 5200
+    },
+    {
+        "id": 9,
+        "nome": "Renato",
+        "idade": 42,
+        "cargo_id": 4,
+        "departamento_id": 4,
+        "salario": 6700
+    },
+    {
+        "id": 5,
+        "nome": "Fernando",
+        "idade": 28,
+        "cargo_id": 2,
+        "departamento_id": 5,
+        "salario": 4000
+    },
+    {
+        "id": 4,
+        "nome": "Ana",
+        "idade": 31,
+        "cargo_id": 1,
+        "departamento_id": 4,
+        "salario": 4700
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 2,
+        "nome": "Marketing Digital",
+        "descricao": "Campanha de marketing online",
+        "data_inicio": "2023-03-01",
+        "data_fim": "2023-09-30",
+        "funcionario_responsavel": "Maria",
+        "custo": 30000.0,
+        "status": "Concluído",
+        "departamento_id": 1
+    },
+    {
+        "id": 5,
+        "nome": "Campanha de Vendas",
+        "descricao": "Ações promocionais para aumento de vendas",
+        "data_inicio": "2023-08-01",
+        "data_fim": "2023-11-30",
+        "funcionario_responsavel": "Fernando",
+        "custo": 15000.0,
+        "status": "Concluído",
+        "departamento_id": 5
+    },
+    {
+        "id": 3,
+        "nome": "Redesign do Site",
+        "descricao": "Reformulação do layout do site corporativo",
+        "data_inicio": "2023-06-01",
+        "data_fim": "2023-12-31",
+        "funcionario_responsavel": "Carlos",
+        "custo": 20000.0,
+        "status": "Em andamento",
+        "departamento_id": 3
+    },
+    {
+        "id": 4,
+        "nome": "Desenvolvimento de App",
+        "descricao": "Mobilidade para o sistema interno",
+        "data_inicio": "2023-07-01",
+        "data_fim": "2023-12-01",
+        "funcionario_responsavel": "Ana",
+        "custo": 40000.0,
+        "status": "Em execução",
+        "departamento_id": 4
+    },
+    {
+        "id": 1,
+        "nome": "Desenvolvimento de Software",
+        "descricao": "Desenvolvimento de um novo sistema",
+        "data_inicio": "2023-01-01",
+        "data_fim": "2023-06-30",
+        "funcionario_responsavel": "João",
+        "custo": 50000.0,
+        "status": "Em andamento",
+        "departamento_id": 2
+    }
+]
